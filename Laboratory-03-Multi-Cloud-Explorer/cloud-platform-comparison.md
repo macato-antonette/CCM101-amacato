@@ -29,3 +29,14 @@ Google Cloud is particularly strong in artificial intelligence, data analytics, 
 ### 4. Which cloud platform would you personally choose and why?
 
 I would personally choose Microsoft Azure because it provides strong enterprise capabilities and integrates well with Microsoft technologies. It also provides a wide range of services for computing, databases, networking, security, and application development.
+
+
+## Equivalent Cloud Services
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud Identity |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
