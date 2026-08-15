@@ -35,6 +35,3 @@ investigation is documented in the following screenshots:
 
 - `Checkpoint-7-1.png`
 - `Checkpoint-7-2.png`
-### Evidence
-
-The terminal
