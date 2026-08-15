@@ -44,3 +44,15 @@ highly available cloud infrastructure across multiple geographic locations. The 
 - Amazon EC2
 - Amazon RDS
 - Amazon CloudFront
+
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Provides scalable services and a broad selection of cloud tools suitable for growing startups. |
+| Enterprise Organization | AWS | Offers extensive services, scalability, security, and global infrastructure for enterprise workloads. |
+| Microsoft Environment | Microsoft Azure | Provides strong integration with Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | Google Cloud | Provides strong AI, machine learning, data analytics, and high-performance computing capabilities. |
+| Kubernetes Deployment | Google Cloud | Google Kubernetes Engine provides a managed Kubernetes environment for containerized applications. |
+| Global Web Application | AWS | Provides global infrastructure, scalable computing, storage, networking, and content delivery services. |
