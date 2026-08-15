@@ -42,4 +42,4 @@ This laboratory activity introduces the fundamentals of working in a cloud-based
 
 ## Skills Learned
 
-Through this laboratory activity, I learned how to access and work with a cloud-based Linux environment, navigate the Linux file system, create users and directories, gather system information, and document technical tasks using Markdown. I also learned how GitHub can be used to organize and maintain a professional Cloud Computing portfolio.
+Through this laboratory activity, I learned how to access and work with a cloud-based Linux environment, navigate the Linux file system, create users and directories, gather system information, and document technical tasks using Markdown. I also learned how GitHub can be used to organize and maintain a professional Cloud Computing portfolio. 
